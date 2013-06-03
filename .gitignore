@@ -15,7 +15,7 @@
 /tmp
 
 # other things to ignore
-Gemfile.lock
+# Gemfile.lock
 doc/api
 doc/app
 *.swp
